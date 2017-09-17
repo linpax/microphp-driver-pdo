@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Micro\\Router\\": "src/"
+      "Micro\\Driver\\Pdo\\": "src/"
     }
   }
 }
