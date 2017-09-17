@@ -1,0 +1,17 @@
+{
+  "name": "linpax/microphp-driver-pdo",
+  "description": "MicroPHP driver PDO",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zcasper",
+      "email": "testuser@mail.linpax.org"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Micro\\Router\\": "src/"
+    }
+  }
+}
